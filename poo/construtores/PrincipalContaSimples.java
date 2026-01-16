@@ -1,0 +1,10 @@
+public class PrincipalContaSimples {
+    public static void main(String[] args) {
+        ContaSimples conta = new ContaSimples("Sthefany", 100);
+
+        conta.depositar(50);
+        conta.sacar(30);
+
+        System.out.println(conta.saldo);
+    }
+}
