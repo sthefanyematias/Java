@@ -1,34 +1,30 @@
-# Java
+# ☕ Java
 
-Repositório com exercícios e projetos desenvolvidos em Java ao longo do curso de
-Análise e Desenvolvimento de Sistemas.
+Repositório com **exercícios e projetos em Java**, mostrando a evolução gradual da lógica de programação e a aplicação de conceitos fundamentais da linguagem.
 
-Os códigos foram produzidos durante as disciplinas de Algoritmos I, Algoritmos II
-e Programação Orientada a Objetos, com foco na evolução gradual da lógica de
-programação e no aprendizado dos conceitos fundamentais da linguagem.
+Todos os códigos foram produzidos como prática pessoal e estudos contínuos, com foco em **organização de código**, **POO**, **estruturas de dados** e **algoritmos**, utilizando **apenas console applications**.
 
-## 📂 Organização do repositório
+##
 
-- **basico/**  
-  Exercícios introdutórios de lógica, entrada e saída de dados, operadores,
-  estruturas condicionais e de repetição.
+### Organização do repositório
 
-- **intermediario/**  
-  Exercícios com vetores, matrizes, métodos, validações e mini-sistemas simples.
+1. `fundamento/basico/`
+   - Exercícios introdutórios de lógica, entrada e saída de dados, operadores, estruturas condicionais e de repetição.
 
-- **poo/**  
-  Exercícios de Programação Orientada a Objetos, incluindo:
-  fundamentos, construtores, encapsulamento, herança, polimorfismo, interfaces,
-  coleções, exceções e recursividade.
+2. `fundamentos/intermediario/`
+   - Exercícios com vetores, matrizes, métodos, validações e mini-sistemas simples.
 
-- **estruturas-e-algoritmos/**  
-  Implementações de algoritmos de ordenação, busca e recursão.
+3. `poo/`
+   - Exercícios de Programação Orientada a Objetos, incluindo fundamentos, construtores, encapsulamento, herança, polimorfismo, interfaces, coleções, exceções e recursividade.
 
-- **projetos/**  
-  Projetos maiores que integram múltiplos conceitos, simulando sistemas reais
-  como biblioteca, sistema bancário e loja digital.
+4. `estruturas-e-algoritmos/`
+   - Implementações de algoritmos de busca e ordenação, além de exercícios de recursividade.
 
-## 🎯 Objetivo
+5. `projetos/`
+   - Projetos maiores que integram múltiplos conceitos, simulando sistemas reais como biblioteca, sistema bancário, loja digital, navegador de arquivos e inventário de artefatos.
 
-Este repositório tem fins acadêmicos e serve como registro da minha evolução no
-aprendizado de Java.
+##
+
+### Objetivo
+
+Este repositório serve como **registro da prática e evolução em Java**, demonstrando habilidades em programação estruturada e orientada a objetos, algoritmos e organização de código para projetos de console.
